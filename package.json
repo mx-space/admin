@@ -8,7 +8,7 @@
     "start": "vue-cli-service serve"
   },
   "dependencies": {
-    "@antv/g2": "4.0.15",
+    "@antv/g2": "4.1.20",
     "@fortawesome/fontawesome-svg-core": "1.2.35",
     "@fortawesome/free-brands-svg-icons": "5.15.3",
     "@fortawesome/free-regular-svg-icons": "5.15.3",
