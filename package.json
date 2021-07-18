@@ -59,7 +59,7 @@
     "eslint": "7.26.0",
     "eslint-plugin-html": "6.1.2",
     "eslint-plugin-prettier": "3.4.0",
-    "eslint-plugin-vue": "7.9.0",
+    "eslint-plugin-vue": "7.14.0",
     "prettier": "2.3.0",
     "sass": "1.32.10",
     "sass-loader": "10.1.1",
